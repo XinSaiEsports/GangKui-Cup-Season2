@@ -7,7 +7,7 @@
 |5|13/03/2026 00:01:24|Shanghai Pro League|✅️注册成功registered successfully|
 |6|13/03/2026 00:01:41|FlyQuest|等待付款Awaiting payment|
 |7|13/03/2026 00:02:12|BoringPlayer|等待付款Awaiting payment|
-|8|13/03/2026 00:02:45|Just Swing|等待付款Awaiting payment|
+|8|13/03/2026 00:02:45|Just Swing|✅️注册成功registered successfully|
 |9|13/03/2026 00:03:03|Team Unitronics SG|等待付款Awaiting payment|
 |10|13/03/2026 00:05:36|Rare Atom|等待付款Awaiting payment|
 |11|13/03/2026 00:06:15|JIJIEHAO|等待付款Awaiting payment|
