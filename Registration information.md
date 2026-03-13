@@ -4,7 +4,7 @@
 |2|13/03/2026 00:00:56|TYLOO|等待付款Awaiting payment|
 |3|13/03/2026 00:01:03|Lynn Vision Gaming|等待付款Awaiting payment|
 |4|13/03/2026 00:01:04|Walk The Talk|等待付款Awaiting payment|
-|5|13/03/2026 00:01:24|Shanghai Pro League|注册成功registered successfully|
+|5|13/03/2026 00:01:24|Shanghai Pro League|✅️注册成功registered successfully|
 |6|13/03/2026 00:01:41|FlyQuest|等待付款Awaiting payment|
 |7|13/03/2026 00:02:12|BoringPlayer|等待付款Awaiting payment|
 |8|13/03/2026 00:02:45|Just Swing|等待付款Awaiting payment|
@@ -19,7 +19,7 @@
 |16|13/03/2026 00:45:31|FENGDA Gaming|等待付款Awaiting payment|
 |17|13/03/2026 02:04:46|Chuengfan Lover|等待付款Awaiting payment|
 |18|13/03/2026 02:29:36|Dreamesport|等待付款Awaiting payment|
-|19|13/03/2026 03:12:30|DQZS|注册成功registered successfully|
+|19|13/03/2026 03:12:30|DQZS|✅️注册成功registered successfully|
 |20|13/03/2026 03:18:09|Fantasy Gaming|等待付款Awaiting payment|
 |21|13/03/2026 04:44:29|Chinggis warriors|等待付款Awaiting payment|
 |22|13/03/2026 12:15:51|100Ra|等待付款Awaiting payment|
