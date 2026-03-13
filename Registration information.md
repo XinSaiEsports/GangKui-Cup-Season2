@@ -9,7 +9,7 @@
 |7|13/03/2026 00:02:12|BoringPlayer|等待付款Awaiting payment|
 |8|13/03/2026 00:02:45|Just Swing|✅️注册成功registered successfully|
 |9|13/03/2026 00:03:03|Team Unitronics SG|等待付款Awaiting payment|
-|10|13/03/2026 00:05:36|Rare Atom|等待付款Awaiting payment|
+|10|13/03/2026 00:05:36|Rare Atom|✅️注册成功registered successfully|
 |11|13/03/2026 00:06:15|JIJIEHAO|✅️注册成功registered successfully|
 ||~~13/03/2026 00:06:51~~|~~eternal premium~~|~~放弃注册Withdraw registration~~|
 |12|13/03/2026 00:22:55|TEAM XDM|等待付款Awaiting payment|
