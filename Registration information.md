@@ -4,21 +4,23 @@
 |2|13/03/2026 00:00:56|TYLOO|等待付款Awaiting payment|
 |3|13/03/2026 00:01:03|Lynn Vision Gaming|等待付款Awaiting payment|
 |4|13/03/2026 00:01:04|Walk The Talk|等待付款Awaiting payment|
-|5|13/03/2026 00:01:24|Shanghai Pro League|等待付款Awaiting payment|
+|5|13/03/2026 00:01:24|Shanghai Pro League|注册成功registered successfully|
 |6|13/03/2026 00:01:41|FlyQuest|等待付款Awaiting payment|
 |7|13/03/2026 00:02:12|BoringPlayer|等待付款Awaiting payment|
 |8|13/03/2026 00:02:45|Just Swing|等待付款Awaiting payment|
 |9|13/03/2026 00:03:03|Team Unitronics SG|等待付款Awaiting payment|
 |10|13/03/2026 00:05:36|Rare Atom|等待付款Awaiting payment|
 |11|13/03/2026 00:06:15|JIJIEHAO|等待付款Awaiting payment|
-|12|13/03/2026 00:06:51|eternal premium|等待付款Awaiting payment|
-|13|13/03/2026 00:22:55|TEAM XDM|等待付款Awaiting payment|
-|14|13/03/2026 00:26:28|DZ CLAN|等待付款Awaiting payment|
-|15|13/03/2026 00:29:09|Unsettled Resentment|等待付款Awaiting payment|
-|16|13/03/2026 00:29:21|1WOF6|等待付款Awaiting payment|
-|17|13/03/2026 00:45:31|FENGDA Gaming|等待付款Awaiting payment|
-|18|13/03/2026 02:04:46|Chuengfan Lover|等待付款Awaiting payment|
-|19|13/03/2026 02:29:36|Dreamesport|等待付款Awaiting payment|
-|20|13/03/2026 03:12:30|DQZS|等待付款Awaiting payment|
-|21|13/03/2026 03:18:09|Fantasy Gaming|等待付款Awaiting payment|
-
+||~~13/03/2026 00:06:51~~|~~eternal premium~~|~~放弃注册Withdraw registration~~|
+|12|13/03/2026 00:22:55|TEAM XDM|等待付款Awaiting payment|
+|13|13/03/2026 00:26:28|DZ CLAN|等待付款Awaiting payment|
+|14|13/03/2026 00:29:09|Unsettled Resentment|等待付款Awaiting payment|
+|15|13/03/2026 00:29:21|1WOF6|等待付款Awaiting payment|
+|16|13/03/2026 00:45:31|FENGDA Gaming|等待付款Awaiting payment|
+|17|13/03/2026 02:04:46|Chuengfan Lover|等待付款Awaiting payment|
+|18|13/03/2026 02:29:36|Dreamesport|等待付款Awaiting payment|
+|19|13/03/2026 03:12:30|DQZS|注册成功registered successfully|
+|20|13/03/2026 03:18:09|Fantasy Gaming|等待付款Awaiting payment|
+|21|13/03/2026 04:44:29|Chinggis warriors|等待付款Awaiting payment|
+|22|13/03/2026 12:15:51|100Ra|等待付款Awaiting payment|
+|23|13/03/2026 12:25:20|Morningstar|等待付款Awaiting payment|
