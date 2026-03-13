@@ -3,7 +3,7 @@
 |1|13/03/2026 00:00:52|THE HUNS ESPORTS|✅️注册成功registered successfully|
 |2|13/03/2026 00:00:56|TYLOO|✅️注册成功registered successfully|
 |3|13/03/2026 00:01:03|Lynn Vision Gaming|✅️注册成功registered successfully|
-|4|13/03/2026 00:01:04|Walk The Talk|等待付款Awaiting payment|
+|4|13/03/2026 00:01:04|Walk The Talk|✅️注册成功registered successfully|
 |5|13/03/2026 00:01:24|Shanghai Pro League|✅️注册成功registered successfully|
 |6|13/03/2026 00:01:41|FlyQuest|✅️注册成功registered successfully|
 |7|13/03/2026 00:02:12|BoringPlayer|等待付款Awaiting payment|
