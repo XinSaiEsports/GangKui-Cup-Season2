@@ -21,7 +21,7 @@
 |18|13/03/2026 02:29:36|Dreamesport|✅️注册成功registered successfully|
 |19|13/03/2026 03:12:30|DQZS|✅️注册成功registered successfully|
 |20|13/03/2026 03:18:09|Fantasy Gaming|等待付款Awaiting payment|
-|21|13/03/2026 04:44:29|Chinggis warriors|等待付款Awaiting payment|
+|21|13/03/2026 04:44:29|Chinggis warriors|✅️注册成功registered successfully|
 |22|13/03/2026 12:15:51|100Ra|等待付款Awaiting payment|
 |23|13/03/2026 12:25:20|Morningstar|✅️注册成功registered successfully|
 |24|13/03/2026 14:01:51|Semper Fi|等待付款Awaiting payment|
