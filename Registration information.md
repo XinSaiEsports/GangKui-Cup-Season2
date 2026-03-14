@@ -12,8 +12,8 @@
 |10|13/03/2026 00:05:36|Rare Atom|✅️注册成功registered successfully|
 |11|13/03/2026 00:06:15|JIJIEHAO|✅️注册成功registered successfully|
 ||~~13/03/2026 00:06:51~~|~~eternal premium~~|~~放弃注册Withdraw registration~~|
-|12|13/03/2026 00:22:55|TEAM XDM|等待付款Awaiting payment|
-|13|13/03/2026 00:26:28|DZ CLAN|等待付款Awaiting payment|
+||~~13/03/2026 00:22:55~~|~~TEAM XDM~~|~~未付款Unpaid~~|
+||~~13/03/2026 00:26:28~~|~~DZ CLAN~~|~~等待付款Awaiting payment~~|
 |14|13/03/2026 00:29:09|Unsettled Resentment|✅️注册成功registered successfully|
 |15|13/03/2026 00:29:21|1WOF6|✅️注册成功registered successfully|
 |16|13/03/2026 00:45:31|FENGDA Gaming|✅️注册成功registered successfully|
