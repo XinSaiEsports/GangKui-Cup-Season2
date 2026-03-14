@@ -7,22 +7,22 @@
 |5|13/03/2026 00:01:24|Shanghai Pro League|✅️注册成功registered successfully|
 |6|13/03/2026 00:01:41|FlyQuest|✅️注册成功registered successfully|
 ||~~13/03/2026 00:02:12~~|~~BoringPlayer~~|~~未付款Unpaid~~|
-|8|13/03/2026 00:02:45|Just Swing|✅️注册成功registered successfully|
-|9|13/03/2026 00:03:03|Team Unitronics SG|✅️注册成功registered successfully|
-|10|13/03/2026 00:05:36|Rare Atom|✅️注册成功registered successfully|
-|11|13/03/2026 00:06:15|JIJIEHAO|✅️注册成功registered successfully|
+|7|13/03/2026 00:02:45|Just Swing|✅️注册成功registered successfully|
+|8|13/03/2026 00:03:03|Team Unitronics SG|✅️注册成功registered successfully|
+|9|13/03/2026 00:05:36|Rare Atom|✅️注册成功registered successfully|
+|10|13/03/2026 00:06:15|JIJIEHAO|✅️注册成功registered successfully|
 ||~~13/03/2026 00:06:51~~|~~eternal premium~~|~~放弃注册Withdraw registration~~|
 ||~~13/03/2026 00:22:55~~|~~TEAM XDM~~|~~未付款Unpaid~~|
 ||~~13/03/2026 00:26:28~~|~~DZ CLAN~~|~~等待付款Awaiting payment~~|
-|14|13/03/2026 00:29:09|Unsettled Resentment|✅️注册成功registered successfully|
-|15|13/03/2026 00:29:21|1WOF6|✅️注册成功registered successfully|
-|16|13/03/2026 00:45:31|FENGDA Gaming|✅️注册成功registered successfully|
-|17|13/03/2026 02:04:46|Chuengfan Lover|✅️注册成功registered successfully|
+|11|13/03/2026 00:29:09|Unsettled Resentment|✅️注册成功registered successfully|
+|12|13/03/2026 00:29:21|1WOF6|✅️注册成功registered successfully|
+|13|13/03/2026 00:45:31|FENGDA Gaming|✅️注册成功registered successfully|
+|14|13/03/2026 02:04:46|Chuengfan Lover|✅️注册成功registered successfully|
 ||~~13/03/2026 02:29:36~~|~~Dreamesport~~|~~退赛Withdrawal~~|
-|19|13/03/2026 03:12:30|DQZS|✅️注册成功registered successfully|
+|15|13/03/2026 03:12:30|DQZS|✅️注册成功registered successfully|
 ||~~13/03/2026 03:18:09~~|~~Fantasy Gaming~~|~~未付款Unpaid~~|
-|21|13/03/2026 04:44:29|Chinggis warriors|✅️注册成功registered successfully|
+|16|13/03/2026 04:44:29|Chinggis warriors|✅️注册成功registered successfully|
 ||~~13/03/2026 12:15:51~~|~~100Ra~~|~~未付款Unpaid~~|
-|23|13/03/2026 12:25:20|Morningstar|✅️注册成功registered successfully|
-|24|13/03/2026 14:01:51|Semper Fi|✅️注册成功registered successfully|
+|17|13/03/2026 12:25:20|Morningstar|✅️注册成功registered successfully|
+|18|13/03/2026 14:01:51|Semper Fi|✅️注册成功registered successfully|
 ||~~13/03/2026 22:36:38~~|~~YQSS~~|~~退赛Withdrawal~~|
