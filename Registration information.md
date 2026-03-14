@@ -26,3 +26,6 @@
 |17|13/03/2026 12:25:20|Morningstar|✅️注册成功registered successfully|
 |18|13/03/2026 14:01:51|Semper Fi|✅️注册成功registered successfully|
 ||~~13/03/2026 22:36:38~~|~~YQSS~~|~~退赛Withdrawal~~|
+|19|14/03/2026 16:56:23|5star eSports|等待付款Awaiting payment|
+|20|14/03/2026 18:01:29|ZevS|等待付款Awaiting payment|
+|21|14/03/2026 18:55:25|Oasis Gaming|等待付款Awaiting payment|
