@@ -17,7 +17,7 @@
 |14|13/03/2026 00:29:09|Unsettled Resentment|✅️注册成功registered successfully|
 |15|13/03/2026 00:29:21|1WOF6|✅️注册成功registered successfully|
 |16|13/03/2026 00:45:31|FENGDA Gaming|✅️注册成功registered successfully|
-|17|13/03/2026 02:04:46|Chuengfan Lover|等待付款Awaiting payment|
+|17|13/03/2026 02:04:46|Chuengfan Lover|✅️注册成功registered successfully|
 |18|13/03/2026 02:29:36|Dreamesport|✅️注册成功registered successfully|
 |19|13/03/2026 03:12:30|DQZS|✅️注册成功registered successfully|
 |20|13/03/2026 03:18:09|Fantasy Gaming|等待付款Awaiting payment|
