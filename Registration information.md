@@ -23,7 +23,7 @@
 ||~~13/03/2026 03:18:09~~|~~Fantasy Gaming~~|~~未付款Unpaid~~|
 |12|13/03/2026 04:44:29|Chinggis warriors|✅️注册成功registered successfully|
 ||~~13/03/2026 12:15:51~~|~~100Ra~~|~~未付款Unpaid~~|
-||~~13/03/2026 12:25:20~~|~~Morningstar~~|~~✅️注册成功registered successfully~~|
+||~~13/03/2026 12:25:20~~|~~Morningstar~~|~~退赛Withdrawal~~|
 |13|13/03/2026 14:01:51|Semper Fi|✅️注册成功registered successfully|
 ||~~13/03/2026 22:36:38~~|~~YQSS~~|~~退赛Withdrawal~~|
 |14|14/03/2026 16:56:23|5star eSports|✅️注册成功registered successfully|
