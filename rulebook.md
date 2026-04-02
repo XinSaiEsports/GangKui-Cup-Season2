@@ -83,3 +83,11 @@ Prize Breakdown (%)
 •4th Place: 10% of the total prize pool
 
 For other relevant content of this tournament, please refer to the Counter-Strike 2 Tournament RULEBOOK（https://github.com/XinSaiEsports/XinSai-Esports/blob/main/XSE%20CS2%20RULEBOOK(EN).md）.
+# Updated on April 3, 2026
+-   For teams that have confirmed their participation, any act of forfeiting or non-attendance at the event may result in:
+    -    Warning
+    -    Lose the right to choose the side of the map in the next match
+    -    Lose the power to ban/pick maps in the next match
+    -    Prohibit participation in several future events organized by XSE
+    -    Permanent prohibition from participating in events organized by XSE
+            
